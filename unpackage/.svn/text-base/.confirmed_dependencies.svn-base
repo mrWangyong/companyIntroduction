@@ -1,0 +1,30 @@
+{
+  "index.html": {
+    "href": "index.html",
+    "resources": [
+      "css/bootstrap.min.css",
+      "css/pintuer.css",
+      "css/gallery-1.css",
+      "css/my.css",
+      "css/font-awesome.css",
+      "js/jquery.js",
+      "js/pintuer.js",
+      "js/respond.js",
+      "js/index.js",
+      "images/banner1.jpg",
+      "images/banner2.jpg",
+      "images/banner3.jpg",
+      "images/24-white.png",
+      "images/logo.png",
+      "images/about.png",
+      "images/portfolio/1.jpg",
+      "images/portfolio/2.jpg",
+      "images/portfolio/3.jpg",
+      "images/portfolio/4.jpg",
+      "images/portfolio/5.jpg",
+      "images/portfolio/6.jpg"
+    ],
+    "refer": [],
+    "priority": 0
+  }
+}
